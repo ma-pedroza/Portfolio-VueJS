@@ -33,15 +33,32 @@ import Card from "../components/Card.vue";
         <!-- <div class="flex flex-col items-center justify-center mb-5 mt-5"><h1 class="text-white font-semibold">NODE.S</h1><i class="text-emerald-200  text-7xl fa-brands fa-node-js"></i></div>    -->
         </div> 
     </div>
-    <div class="flex flex-col items-center">
-        <h2 class="text-2xl font-semibold mb-4 text-center text-white">Soft Skills</h2>
+    <div>
+        <h2 class="text-white text-center mt-5 mb-5 font-bold text-2xl">Soft Skills</h2>
         <div class="grid grid-cols-2 gap-4">
-        <div class="bg-gray-800 p-4 rounded-xl text-center text-white">💬 Comunicação</div>
-        <div class="bg-gray-800 p-4 rounded-xl text-center text-white">🚀 Proatividade</div>
-        <div class="bg-gray-800 p-4 rounded-xl text-center text-white">🔧 Resolução de problemas</div>
-        <div class="bg-gray-800 p-4 rounded-xl text-center text-white">💡 Curiosidade</div>
-      </div>
+            <div class="text-white bg-gray-700 rounded-xl p-5">
+                <h1 class="text-lg font-bold mb-2">🌟 Liderança Inspiradora</h1>
+                <p class="text-sm">Gosto de motivar pessoas, organizar o time e buscar soluções criativas. Lidero com empatia e foco em resultados.</p>
+            </div>
+            <div class="text-white bg-gray-700 rounded-xl p-5">
+                <h1 class="text-lg font-bold mb-2">👥 Trabalho em equipe e empatia</h1>
+                <p class="text-sm">Valorizo a colaboração e o crescimento coletivo, sempre me colocando no lugar do outro.</p>
+            </div>
+            <div class="text-white bg-gray-700 rounded-xl p-5">
+                <h1 class="text-lg font-bold mb-2">💬 Comunicação</h1>
+                <p class="text-sm">Sei expressar ideias, ouvir diferentes perspectivas e construir pontes para alcançar os objetivos.</p>
+            </div>
+            <div class="text-white bg-gray-700 rounded-xl p-5">
+                <h1 class="text-lg font-bold mb-2">🧠 Resolução de problemas</h1>
+                <p class="text-sm">Encaro desafios como oportunidades de aprendizado, com foco em soluções práticas e eficazes.</p>
+            </div>
+            <div class="text-white bg-gray-700 rounded-xl p-5">
+                <h1 class="text-lg font-bold mb-2">🎓 Aprendizado e adaptabilidade</h1>
+                <p class="text-sm">Sempre em busca de novos conhecimentos e pronto para me adaptar a novas tecnologias e situações.</p>
+            </div>
+        </div>
     </div>
+
 </div>
 
 
