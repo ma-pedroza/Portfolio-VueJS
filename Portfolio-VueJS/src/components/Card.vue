@@ -11,7 +11,7 @@
     </div>
     <div v-if="tipo == 'about'" class="shadow-xl rounded-sm bg-neutral-900 p-2 text-white">
       <img
-        class="h-[430px] w-[400px]" 
+        class="h-[430px] w-[650px]" 
         src="../assets/Imagem do WhatsApp de 2025-05-25 à(s) 22.00.25_724c8543.jpg"
         alt=""
       />
