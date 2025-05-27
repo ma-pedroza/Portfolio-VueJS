@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="bg-gradient-to-r from-slate-950 to-stone-900 text-white py-4 px-8 flex justify-between items-center font-bold"
+    class="bg-gradient-to-r from-slate-950 to-stone-900 text-white py-6 px-8 flex justify-between items-center font-bold"
   >
     <h1 class="text-white">Portfólio | Matheus Pedroza</h1>
     <ul class="flex gap-6">
