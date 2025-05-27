@@ -34,11 +34,11 @@ import Card from "../components/Card.vue";
             <h1 class="text-center font-bold text-2xl text-white mt-5 mb-5">Principais Tecnologias</h1>
             <div class="bg-neutral-200 grid grid-cols-3 rounded-2xl">
                 <div class="flex flex-col items-center justify-center mb-5 mt-5">
-                    <h1 class="text-slate-900 font-semibold">HTML</h1><i
+                    <h1 class="text-slate-900 font-bold">HTML</h1><i
                         class="text-slate-900  text-7xl fa-brands fa-html5"></i>
                 </div>
                 <div class="flex flex-col items-center justify-center mb-5 mt-5">
-                    <h1 class="text-slate-900 font-semibold">CSS</h1><i
+                    <h1 class="text-slate-900 font-bold">CSS</h1><i
                         class="text-slate-900 text-7xl fa-brands fa-css3-alt"></i>
                 </div>
                 <div class="flex flex-col items-center justify-center mb-5 mt-5">
