@@ -1,15 +1,15 @@
   <template>
-    <div v-if="tipo == 'home'"
-      class="hover:scale-105 transition-transform rounded-md text-black shadow-md bg-white p-4 hover:bg-gray-200 hover:shadow-x"
-    >
+    <div class="relative w-[450px] h-[450px]" v-if="tipo == 'home'">
+      <div class="rounded-full bg-gradient-to-r from-fuchsia-900 to-rose-900 blur-3xl absolute inset-0 opacity-70">
+      </div> 
       <img
-        class="h-[450px] w-[350px]" 
-        src="https://i.redd.it/is-my-chihuahua-fat-v0-ub5fmrr6ufnb1.jpg?width=4032&format=pjpg&auto=webp&s=6735e08fb2c12f03a832a4087be25f0c976b7d04"
+        class="h-full w-full relative z-10 hover:scale-105 transition-transform rounded-full shadow-md duration-300 opacity-90 drop-shadow-lg " 
+        src="../assets/Imagem do WhatsApp de 2025-05-25 à(s) 22.00.25_724c8543.jpg"
         alt=""
-      />
-      <h1 class="text-center font-bold mt-3">Matheus Gomes Pedroza</h1>
+      />  
     </div>
-    <div v-if="tipo == 'about'" class="shadow-xl rounded-sm bg-neutral-900 p-2 text-white">
+    
+    <div v-if="tipo == 'about'" class="shadow-xl rounded-sm bg-neutral-950 p-2 text-white">
       <img
         class="h-[430px] w-[650px]" 
         src="../assets/Imagem do WhatsApp de 2025-05-25 à(s) 22.00.25_724c8543.jpg"
