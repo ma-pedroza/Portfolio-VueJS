@@ -20,7 +20,7 @@ import Card from "../components/Card.vue";
                     <br>
                     <p class="text-gray-300">Tenho trabalhado com projetos de aprendizagem usando tecnologias como
                         Node.js, Vue.js, Vite, Tailwind CSS e outras ferramentas modernas do ecossistema web.</p><br>
-                    <p class="text-gray-300">E  stou totalmente focado em aprender, evoluir a cada dia e alcançar minha
+                    <p class="text-gray-300">Estou totalmente focado em aprender, evoluir a cada dia e alcançar minha
                         primeira oportunidade na área de tecnologia, onde poderei aplicar meus conhecimentos e crescer
                         como profissional.</p><br>
                     <p class="text-gray-300">Tenho um pouco de experiência prática com Vue.js e Tailwind CSS para desenvolvimento frontend, e também trabalho com backend e APIs utilizando C# com Entity Framework. Além disso, estou sempre buscando novos conhecimentos voltado ao desenvolvimento web.</p>
